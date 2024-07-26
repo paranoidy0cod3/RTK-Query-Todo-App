@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": "e9acda27-05c9-4d72-b7b6-2777a59a0181",
+      "todo": "understand RTK query",
+      "completed": true
+    },
+    {
+      "id": "ee42e065-4529-450f-bfaa-bc946a8df6b8",
+      "todo": "remember syntax",
+      "completed": false
+    },
+    {
+      "id": "08462b45-c454-4d68-bc7b-433a1e34b674",
+      "todo": "applying RTK",
+      "completed": false
+    },
+    {
+      "id": "664aac8d-d0ea-45a9-a414-454bca769833",
+      "todo": "analyzing RTK",
+      "completed": false
+    },
+    {
+      "id": "aa2f1cef-260e-440c-9dcb-5ef98f7dc142",
+      "todo": "evalute RTK",
+      "completed": false
+    },
+    {
+      "id": "98fae0bf-f547-4bef-9d13-5dfd589e7698",
+      "todo": "create own RTK",
+      "completed": false
+    }
+  ]
+}
